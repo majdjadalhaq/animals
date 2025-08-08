@@ -5,4 +5,4 @@ A collection of animal descriptions.
 - [Lion](lion.md)
 - [Tiger](tiger.md)
 - [Elephant](elephant.md)
-
+- [Wolf](wolf.md)
