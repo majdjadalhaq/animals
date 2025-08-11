@@ -1,6 +1,6 @@
 # Wolf
 
-![Wolf](https://upload.wikimedia.org/wikipedia/commons/5/5f/Grey_wolf_%28Canis_lupus%29.jpg)
+![Wolf]([https://upload.wikimedia.org/wikipedia/commons/5/5f/Grey_wolf_%28Canis_lupus%29.jpg](https://cdn.britannica.com/07/5207-050-5BC9F251/Gray-wolf.jpg))
 
 The wolf (*Canis lupus*) is a highly adaptable and social carnivorous mammal native to the wilderness and remote areas of North America, Europe, Asia, and the Middle East. Wolves are known for living and hunting in packs, which are complex social structures usually consisting of a family group led by an alpha pair. Wolves communicate through a variety of vocalizations including howling, barking, and growling, as well as through body language and scent marking.
 
